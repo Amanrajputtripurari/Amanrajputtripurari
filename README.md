@@ -1,88 +1,124 @@
 <div align="center">
 
-# Hey, I'm Aman Rajput 👋
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Rajput;Full-Stack+Engineer;SaaS+%C2%B7+Logistics+%C2%B7+Automation" alt="Typing SVG" />
 
-### Full-Stack Engineer · SaaS Platforms · Business Automation
+**I build practical software for complex business operations, from interfaces and APIs to data systems and deployment.**
 
-**I build practical software for complex business operations — from interfaces and APIs to data systems and deployment.**
-
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amanrajputtripurari.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amanrajputtripurari)
+<p>
+  <a href="https://amanrajputtripurari.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Amanrajputtripurari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Amanrajputtripurari&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-## About me
+### 👨‍💻 About Me
 
-I'm a full-stack developer interested in **scalable SaaS**, **logistics and fleet operations**, **pharma/distribution software**, and **workflow automation**. I enjoy connecting product requirements with reliable backend architecture, usable frontends, and real-world operational workflows.
+I'm a **full-stack engineer** focused on building reliable software for real-world business operations. I enjoy turning messy operational workflows into clean products, connecting product requirements with solid backend architecture and intuitive frontends.
 
-- 🔭 **Building:** Business platforms, fleet/distribution tools, and automation workflows
-- 🧩 **Interested in:** Multi-tenant systems, real-time data, offline-first apps, and performance
-- 📚 **Learning:** AI/ML fundamentals and modern backend architecture
-- 🌐 **Portfolio:** [amanrajputtripurari.github.io/portfolio](https://amanrajputtripurari.github.io/portfolio/)
+```yaml
+focus:      [ SaaS Platforms, Logistics & Fleet, Pharma Distribution, Workflow Automation ]
+interests:  [ Multi-tenant Systems, Real-time Data, Offline-first Apps, Performance ]
+learning:   [ AI/ML Fundamentals, Modern Backend Architecture ]
+building:   Business platforms, fleet & distribution tools, automation pipelines
+```
 
-## Tech stack
+---
 
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & data**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-**Mobile, desktop & infrastructure**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## Areas I work on
-
-| Domain | Engineering focus |
-| --- | --- |
-| 🚚 Logistics & fleet | Tracking workflows, route planning, distribution operations |
-| 💊 Pharma & distribution | Inventory, order management, accounting workflows |
-| 🏢 SaaS platforms | Multi-tenant architecture, APIs, dashboards |
-| 🤖 Automation | Data imports, browser automation, process optimization |
-| 📱 Cross-platform | Web, mobile, and desktop applications |
-
-## Selected public work
-
-> Some commercial systems I've worked on are private. Public repositories below are examples of work you can explore directly.
-
-| Project | Description |
-| --- | --- |
-| [Portfolio](https://github.com/Amanrajputtripurari/portfolio) | Personal website and selected work |
-| [QR Code](https://github.com/Amanrajputtripurari/qr-code) | TypeScript QR code project |
-| [BINGO](https://github.com/Amanrajputtripurari/BINGO) | Real-time multiplayer game using React and Socket.IO |
-| [Shopflow](https://github.com/Amanrajputtripurari/shopflow) | TypeScript project — explore the repository for details |
-| [Cursor Admin Boilerplate](https://github.com/Amanrajputtripurari/cursor_admin_boilerplate) | TypeScript admin starter project |
-
-## GitHub activity
+### 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanrajputtripurari&theme=github-compact&hide_border=true)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=angular,nextjs,react,ts,tailwind&theme=dark" />
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,postgres,redis&theme=dark" />
+
+**Mobile, Desktop & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,electron,docker,aws,linux&theme=dark" />
 
 </div>
 
-## Let's connect
+---
 
-Interested in collaborating on **SaaS, logistics, business software, or developer tooling**?
+### 🧭 Domains I Work In
 
-**[View my portfolio →](https://amanrajputtripurari.github.io/portfolio/)**
+| Domain | Engineering Focus |
+| :-- | :-- |
+| 🚚 **Logistics & Fleet** | Tracking workflows, route planning, distribution operations |
+| 💊 **Pharma & Distribution** | Inventory, order management, accounting workflows |
+| 🏢 **SaaS Platforms** | Multi-tenant architecture, APIs, analytics dashboards |
+| 🤖 **Automation** | Data imports, browser automation, process optimization |
+| 📱 **Cross-Platform** | Web, mobile, and desktop applications |
 
 ---
 
-<div align="center"><sub>Built with curiosity, TypeScript, and a focus on useful software.</sub></div>
+### 🚀 Featured Projects
+
+> Much of my commercial work lives in private repositories. Here are some public projects you can explore.
+
+<div align="center">
+
+<a href="https://github.com/Amanrajputtripurari/BINGO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanrajputtripurari&repo=BINGO&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/Amanrajputtripurari/shopflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanrajputtripurari&repo=shopflow&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/Amanrajputtripurari/cursor_admin_boilerplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanrajputtripurari&repo=cursor_admin_boilerplate&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/Amanrajputtripurari/qr-code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanrajputtripurari&repo=qr-code&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amanrajputtripurari&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrajputtripurari&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Amanrajputtripurari&theme=github-dark-blue&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amanrajputtripurari&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to collaborating on **SaaS products, logistics systems, business software, and developer tooling**.
+
+<p align="left">
+  <a href="https://amanrajputtripurari.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/View_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <!-- Add your real links below and remove the comment markers -->
+  <!--
+  <a href="https://linkedin.com/in/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  -->
+</p>
+
+---
+
+<div align="center">
+  <sub>Built with curiosity, TypeScript, and a focus on useful software.</sub>
+</div>
